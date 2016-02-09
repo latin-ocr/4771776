@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "4771776_0011.png"; bbox 0 0 1779 2595; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 0 0 1779 522">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 0 0 1779 522">
+     <span class='ocr_line' id='line_1_1' title="bbox 0 0 1779 522; baseline 0 -154"><span class='ocrx_word' id='word_1_1' title='bbox 0 0 129 522; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1590 0 1779 368; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 154 806 1494 1132">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 154 806 1494 1132">
+     <span class='ocr_line' id='line_1_2' title="bbox 466 806 1184 863; baseline 0 0"><span class='ocrx_word' id='word_1_3' title='bbox 466 806 702 863; x_wconf 85' lang='lat' dir='ltr'><strong>MATRI</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 745 806 1184 863; x_wconf 78' lang='lat' dir='ltr'><strong>CARISSIMAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 154 939 1494 1008; baseline 0 -11"><span class='ocrx_word' id='word_1_5' title='bbox 154 940 472 1008; x_wconf 79' lang='lat' dir='ltr'><strong>PIAEQUE</strong></span> <span class='ocrx_word' id='word_1_6' title='bbox 515 940 776 998; x_wconf 79' lang='lat' dir='ltr'><strong>PATRIS</strong></span> <span class='ocrx_word' id='word_1_7' title='bbox 818 939 1071 997; x_wconf 82' lang='lat' dir='ltr'><strong>OPTIMI</strong></span> <span class='ocrx_word' id='word_1_8' title='bbox 1106 939 1494 998; x_wconf 87' lang='lat' dir='ltr'><strong>MEMORIAE</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 674 1074 983 1132; baseline -0.003 0"><span class='ocrx_word' id='word_1_9' title='bbox 674 1074 983 1132; x_wconf 77' lang='lat' dir='ltr'><strong>SAORUM.</strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
